@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><heading creation-date-time="2025年3月26日 星期三 下午08时14分22秒 CST" creator="D:\work\SPSS 26.0\SPSS 26.0" creator-version="26000000" xmlns="http://xml.spss.com/spss/viewer/viewer-tree" xmlns:vgr="http://xml.spss.com/spss/viewer/viewer-graph" xmlns:vizml="http://xml.spss.com/visualization" xmlns:vmd="http://xml.spss.com/spss/viewer/viewer-model" xmlns:vps="http://xml.spss.com/spss/viewer/viewer-pagesetup" xmlns:vst="http://xml.spss.com/spss/viewer/viewer-style" xmlns:vtb="http://xml.spss.com/spss/viewer/viewer-table" xmlns:vtl="http://xml.spss.com/spss/viewer/table-looks" xmlns:vtt="http://xml.spss.com/spss/viewer/viewer-treemodel" xmlns:vtx="http://xml.spss.com/spss/viewer/viewer-text" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.spss.com/spss/viewer/viewer-tree http://xml.spss.com/spss/viewer/viewer-tree-1.2.xsd"><label>输出</label><container text-align="left" visibility="visible" width="689px"><label>日志</label><vtx:text commandName="log" type="log"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><![CDATA[<head><style type="text/css">p{color:0;font-family:Monospaced;font-size:14pt;font-style:normal;font-weight:normal;text-decoration:none}</style></head><BR>FACTOR
+  /VARIABLES @1.设施数量 @2.设施位置 @3.设施质量 @4.设施尺度 @5.实用程度 @6.舒适程度 @7.互动程度 @8.安全程度 @9.配套完善 @10.空间私密
+    @11.观景程度 @12.亲水程度 @13.卫生程度 @14.色彩表现 @15.夜景效果 @16.造型观感 @17.文化特色
+  /MISSING LISTWISE
+  /ANALYSIS @1.设施数量 @2.设施位置 @3.设施质量 @4.设施尺度 @5.实用程度 @6.舒适程度 @7.互动程度 @8.安全程度 @9.配套完善 @10.空间私密
+    @11.观景程度 @12.亲水程度 @13.卫生程度 @14.色彩表现 @15.夜景效果 @16.造型观感 @17.文化特色
+  /PRINT INITIAL KMO EXTRACTION ROTATION FSCORE
+  /FORMAT SORT BLANK(.4)
+  /CRITERIA MINEIGEN(1) ITERATE(25)
+  /EXTRACTION PC
+  /CRITERIA ITERATE(25)
+  /ROTATION VARIMAX
+  /SAVE REG(ALL)
+  /METHOD=CORRELATION.]]></html></vtx:text></container></heading>
